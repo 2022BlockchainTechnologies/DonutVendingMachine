@@ -2,7 +2,7 @@
 
 ## Developers
 - Fabian Egartner (feg1770)
-- Fabian Dreher
+- Fabian Dreher (fdr5185)
 
 ## About the Contract
 A smart contract that lets you purchase delicious donuts. <br>
